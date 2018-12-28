@@ -1,2 +1,3 @@
-module github.com/ymjnudt/hellogo/test v1.0.0
+module github.com/ymjnudt/hellogo/test
+
 require github.com/ymjnudt/hellogo/person v1.0.0
