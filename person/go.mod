@@ -1,1 +1,1 @@
-module github.com/ymjnudt/hellogo/person 1.0
+module github.com/ymjnudt/hellogo/person v1.0.0
