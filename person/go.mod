@@ -1,0 +1,1 @@
+module github.com/ymjnudt/hellogo/person 1.0
